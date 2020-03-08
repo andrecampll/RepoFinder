@@ -4,7 +4,7 @@ Aplicação em react para busca de repositórios no Github e seus respectivos de
 # Utilização
 1 - Clone o repositório através do comando "git clone" <br />
 2 - Inicialize as depedências do projeto utilizando o comando "Yarn" na raiz do projeto. <br />
-3 - Dê "Yarn start" e a apliação rodará automaticamente no seu navegador. Enjoy it! :D 
+3 - Dê "Yarn start" e a aplicação rodará automaticamente no seu navegador. Enjoy it! :D 
 
 # Ferramentas utilizadas
 Este projeto foi construído com o gerenciador de pacotes Yarn, a API pública do Github e React no frontend!
